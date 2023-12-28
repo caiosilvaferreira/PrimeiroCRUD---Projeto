@@ -1,0 +1,64 @@
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.csproj.AssemblyReference.cache
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.AssemblyInfoInputs.cache
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.AssemblyInfo.cs
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\appsettings.json
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.exe
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.deps.json
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.runtimeconfig.json
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.dll
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.pdb
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets\msbuild.MeuPrimeiroCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets\msbuild.build.MeuPrimeiroCrud.props
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MeuPrimeiroCrud.props
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MeuPrimeiroCrud.props
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\scopedcss\bundle\MeuPrimeiroCrud.styles.css
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.csproj.CopyComplete
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.dll
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\refint\MeuPrimeiroCrud.dll
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.pdb
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.genruntimeconfig.cache
+C:\Users\Caio\source\repos\MeuPrimeiroCrud\MeuPrimeiroCrud\obj\Debug\net6.0\ref\MeuPrimeiroCrud.dll
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\appsettings.json
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.exe
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.deps.json
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.runtimeconfig.json
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.dll
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\MeuPrimeiroCrud.pdb
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.csproj.AssemblyReference.cache
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.AssemblyInfoInputs.cache
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.AssemblyInfo.cs
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.csproj.CoreCompileInputs.cache
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets\msbuild.MeuPrimeiroCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets\msbuild.build.MeuPrimeiroCrud.props
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MeuPrimeiroCrud.props
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MeuPrimeiroCrud.props
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\scopedcss\bundle\MeuPrimeiroCrud.styles.css
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.csproj.CopyComplete
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.dll
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\refint\MeuPrimeiroCrud.dll
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.pdb
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\MeuPrimeiroCrud.genruntimeconfig.cache
+C:\Users\Caio\Documents\Documentos Caio\Meus projetos dotnet\Crud\MeuPrimeiroCrud\obj\Debug\net6.0\ref\MeuPrimeiroCrud.dll
